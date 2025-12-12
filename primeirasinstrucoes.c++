@@ -10,6 +10,6 @@ using namespace std;
 
 int main(){   
 
-cout << "Oi mundo!"; 
+cout << "Oi mundo! \n "; 
 
 }
