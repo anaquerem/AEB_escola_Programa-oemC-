@@ -13,5 +13,7 @@ int main() {
     else
        cout << "\n Você não pode tirar a carteira de habilitação";
 
-     
+       cout << "\n Fim de programa \n";
+       system("PAUSE");
+
 }
