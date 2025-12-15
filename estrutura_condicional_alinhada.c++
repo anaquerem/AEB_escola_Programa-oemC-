@@ -17,3 +17,9 @@ int main (){
         cout << "\n Você não pode tirar a carteira de habilitação \n";
     }
 
+    else
+        cout << "\n Você não pode tirar o título de eleitor ou a carteira de habilitação \n";
+
+        cout << "\n Fim do programa! \n\n";
+        system ("pause");
+    }
