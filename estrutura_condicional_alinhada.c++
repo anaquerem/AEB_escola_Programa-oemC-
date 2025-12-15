@@ -11,4 +11,9 @@ int main (){
      if (idade >= 16) {
         cout << "\n Você pode tirar o título de eleitor \n";
 
-  
+    if (idade >= 18) 
+        cout << "\n Você pode tirar a carteira de habilitação \n";
+    else
+        cout << "\n Você não pode tirar a carteira de habilitação \n";
+    }
+
